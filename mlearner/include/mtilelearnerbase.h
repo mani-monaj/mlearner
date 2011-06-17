@@ -20,7 +20,7 @@ Copyright (C) 2011, Mani Monajjemi (www.manionline.org)
 #define MTDLearnerTile_H
 
 #include "mtdlearnerbase.h"
-#include "tiles.hpp"
+#include "tiles.h"
 
 /**
  * @brief The base abstract class for RL algorithm using Tile Coding

@@ -40,7 +40,7 @@ It is recommended by the UNH folks that num-tiles be a power of 2, e.g., 16.
 
 #include "math.h"
 
-#include "tiles.hpp"
+#include "tiles.h"
 
 /* hash_coordinates
    Takes an array of integer coordinates and returns the corresponding tile after hashing
