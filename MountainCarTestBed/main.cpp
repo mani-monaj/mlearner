@@ -24,10 +24,10 @@ Copyright (C) 2011, Mani Monajjemi (www.manionline.org)
 #include <math.h>
 
 #include "cmountaincarenv.h"
-#include "../mlearner/mtilesarsalearner.h"
-#include "../mlearner/mtileqlearner.h"
-#include "../mlearner/mfuzzyaclearner.h"
-#include "../mlearner/mfuzzyqlearner.h"
+#include "../mlearner/include/mtilesarsalearner.h"
+#include "../mlearner/include/mtileqlearner.h"
+#include "../mlearner/include/mfuzzyaclearner.h"
+#include "../mlearner/include/mfuzzyqlearner.h"
 #include "profiler.h"
 
 int main(int argc, char *argv[])

@@ -8,7 +8,7 @@ SOURCES += $$PWD/src/tiles.cpp \
     $$PWD/src/mfuzzyaclearner.cpp \
     $$PWD/src/mfuzzyqlearner.cpp
 INCLUDEPATH += . \
-    $$PWD/include \
+    $$PWD/include
 LIBS += -L$$PWD/libs \
     -ljfuzzyqt
 HEADERS += $$PWD/include/tiles.hpp \
