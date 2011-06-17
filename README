@@ -3,4 +3,4 @@ https://github.com/mani-monaj/mlearner/wiki
 
 *** IMPORTANT NOTICE ***
 
-This library depends on jFuzzyQt (sourceforge.net/projects/jfuzzyqt/) library for fuzzy calculations. I made some changes to the original library. As soon as the original developers accept to include the changes in their next release, mLearner will be ready to be released to public. 
+This library depends on jFuzzyQt (sourceforge.net/projects/jfuzzyqt/) library for fuzzy calculations. I made some changes to the original library. As soon as the jFuzzyQt developers accept to include the changes in their next release, mLearner will be ready to be released to public. 
